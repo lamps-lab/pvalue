@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Sep  3 17:23:32 2021
 
-@author: xin
-"""
 
 
 
